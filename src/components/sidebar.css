@@ -1,0 +1,42 @@
+.sidebar {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  font-size: 14px;
+  max-width: 350px;
+  margin-left: 40px;
+}
+
+.sidebar p {
+  margin: 0 0 10px 0;
+  line-height: 1.5;
+}
+.twitter-follow-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 12px;
+  background-color: #388de8; 
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
+  border-radius: 6px; 
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+.twitter-follow-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px; 
+  margin-top: 10px;
+}
+
+.follower-count {
+  font-weight: normal;
+  opacity: 0.85;
+  font-size: 14px;
+  color: #333; 
+  border: 1px solid black;  
+  padding: 4px 8px;        
+  border-radius: 4px;        
+}
