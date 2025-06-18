@@ -7,7 +7,7 @@ git clone https://github.com/jenniferfares/SearchTextProject.git
 
 2-Navigate to the project directory
 
-cd your-repository
+cd SearchTextProject
 
 3-Install dependencies
 
